@@ -5,7 +5,7 @@
 -- ================================================================
 -- Table Definitions
 -- ================================================================
-
+use 2fa;
 -- 1. Users Table
 CREATE TABLE users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
