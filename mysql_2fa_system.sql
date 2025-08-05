@@ -1,7 +1,3 @@
--- This SQL script to implement a basic 2FA system using MySQL only.
--- Author: [Takshil Khurana]
--- Date: [19-06-2025]
-
 -- ================================================================
 -- Table Definitions
 -- ================================================================
